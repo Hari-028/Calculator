@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: fantasy;
+    margin-left: 34%;
+    margin-top: 3%;
+}
+
+.container {
+    width: 250px;
+    height: 370px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 30%;
+    margin-top: 4%;
+}
+
+#display {
+    margin: 25px;  
+    width: 180px;
+    height: 40px;
+    font-size: 25px;
+    padding: 5px;
+}
+.btnn {    
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.small {
+    margin-left: 15px;
+    width: 45px;
+    font-size: large;
+    font-weight: bold;
+   
+    
+    
+}
+.btn {
+    width: 50px;
+    height: 50px;
+    font-size: large;
+    font-weight: bold;
+    margin: 3px;
+}
